@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-mykbgwl.vercel.app" alt="MyK Spotify Playing" width="350" />](https://open.spotify.com/user/mayankbangwal)
+[<img src="https://novatorem-git-master-mykbgwl.vercel.app/" alt="MyK Spotify Playing" width="350" />](https://open.spotify.com/user/mayankbangwal)
 
 ### Connect with me:
 
