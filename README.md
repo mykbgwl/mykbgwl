@@ -1,4 +1,4 @@
-### Hi there, I'm Mayank - aka [MyK](https://www.youtube.com/channel/ucos64zgsgjzi4bt2cuim_og) 👋
+### Hi there, I'm Mayank - aka [MyK](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og) 👋
 
 [![Website](https://img.shields.io/youtube/channel/subscribers/UCoS64ZGsGjzI4BT2cUIM_og?style=for-the-badge)](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmedragonite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitsmedragonite&screen_name=itsmedragonite)
