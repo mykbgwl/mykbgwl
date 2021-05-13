@@ -47,7 +47,7 @@
 
 - [When Teammates Lose Hope! (Valorant)](https://www.youtube.com/watch?v=WXL4HZNtU9Q&t)
 - [Valorant Best Moments and Funny Fails!!! (2020)](https://www.youtube.com/watch?v=_5CLcDuj5Iw)
-- [I'm back in CS:GO! Insane Reflexes and Flicks... (CS:Go)](https://www.youtube.com/watch?v=I61aSzUu9wI&t)
+- [I'm back in CS:GO! Insane Reflexes and Flicks... (CS:GO)](https://www.youtube.com/watch?v=I61aSzUu9wI&t)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og)
