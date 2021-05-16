@@ -16,10 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/ucos64zgsgjzi4bt2cuim_og)
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/itsmedragonite/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mykbgwl/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bakamyk/)
+[<img align="left" alt="MyK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/ucos64zgsgjzi4bt2cuim_og)
+[<img align="left" alt="Myk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/itsmedragonite/)
+[<img align="left" alt="MyK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mykbgwl/)
+[<img align="left" alt="MyK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bakamyk/)
 
 <br />
 
@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-git-master-mykbgwl.vercel.app/api?username=mykbgwl&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mayank's Github Stats" src="https://github-readme-stats-git-master-mykbgwl.vercel.app/api?username=mykbgwl&show_icons=true&hide_border=true" />
 
 </details>
 
