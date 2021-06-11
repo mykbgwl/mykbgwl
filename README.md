@@ -1,4 +1,4 @@
-### Hi there, I'm Mayank - aka [MyK](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og) 👋
+### Hi there, I'm _**Mayank**_ - aka [MyK](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og) 👋
 
 [![Website](https://img.shields.io/youtube/channel/subscribers/UCoS64ZGsGjzI4BT2cUIM_og?style=for-the-badge)](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmedragonite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fitsmedragonite&screen_name=itsmedragonite)
@@ -43,12 +43,11 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
 
 - [When Teammates Lose Hope! (Valorant)](https://www.youtube.com/watch?v=WXL4HZNtU9Q&t)
 - [Valorant Best Moments and Funny Fails!!! (2020)](https://www.youtube.com/watch?v=_5CLcDuj5Iw)
 - [I'm back in CS:GO! Insane Reflexes and Flicks... (CS:GO)](https://www.youtube.com/watch?v=I61aSzUu9wI&t)
-<!-- YOUTUBE:END -->
+
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og)
 
