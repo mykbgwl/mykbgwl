@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotify-mykbgwl.vercel.app/api/spotify" alt="MyK Spotify Playing" width="350" />](https://open.spotify.com/user/mayankbangwal)
+[<img src="https://https://https://spotify-eosin-ten.vercel.app/api/spotify" alt="MyK Spotify Playing" width="350" />](https://open.spotify.com/user/mayankbangwal)
 
 ### Connect with me:
 
