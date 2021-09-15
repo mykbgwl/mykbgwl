@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-mykbgwl.vercel.app/api/spotify)](https://open.spotify.com/user/mayankbangwal)
+[![Spotify](https://https://spotify-mykbgwl.vercel.app/api/spotify)](https://open.spotify.com/user/mayankbangwal)
 
 ### Connect with me:
 
