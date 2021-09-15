@@ -17,9 +17,9 @@
 ### Connect with me:
 
 [<img align="left" alt="MyK | YouTube" width="22px" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-youtube-multimedia-prettycons-flat-prettycons.png"/>](https://www.youtube.com/channel/ucos64zgsgjzi4bt2cuim_og)
-[<img align="left" alt="Myk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/itsmedragonite/)
-[<img align="left" alt="MyK | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mykbgwl/)
-[<img align="left" alt="MyK | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/bakamyk/)
+[<img align="left" alt="Myk | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>](https://twitter.com/itsmedragonite/)
+[<img align="left" alt="MyK | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/mykbgwl/)
+[<img align="left" alt="MyK | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/bakamyk/)
 
 <br />
 
