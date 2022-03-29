@@ -15,12 +15,14 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mayankbangwal)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itsmedragonite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmedragonite" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-bangwal-36863416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-bangwal-36863416b" height="30" width="40" /></a>
 <a href="https://instagram.com/bakamyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakamyk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mayank bangwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayank bangwal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCoS64ZGsGjzI4BT2cUIM_og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayank bangwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
