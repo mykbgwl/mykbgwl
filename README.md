@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-&nbsp; <br> [![Spotify](https://spotify-eosin-ten.vercel.app/api/spotify)](https://open.spotify.com/user/mayankbangwal)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 ### Connect with me:
 
