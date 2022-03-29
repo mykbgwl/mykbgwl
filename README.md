@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykbgwl&label=Profile%20views&color=0e75b6&style=flat" alt="mykbgwl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itsmedragonite" target="blank"><img src="https://img.shields.io/twitter/follow/itsmedragonite?logo=twitter&style=for-the-badge" alt="itsmedragonite" /></a> </p>
-
 - 🔭 I’m currently working on **Spring Boot**
 
 - 🌱 I’m currently learning **React Native**
