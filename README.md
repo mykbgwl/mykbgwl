@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mykbgwl&label=Profile%20views&color=0e75b6&style=flat" alt="mykbgwl" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **C, MERN**
 
